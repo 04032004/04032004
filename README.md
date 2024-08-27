@@ -4,12 +4,12 @@
 
 Hey! I am Palak Kaushal , a Final year student pursuing Bachelors's from Maulana Azad National Institute of Technology , Bhopal(MP) 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Development 🕸️ and working on my Problem Solving Skills 🤓.
 
-### More about me...
+### More about me...  
 
 - 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 💻 I have worked on C++, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, etc.
+- 💻 I have worked on C++, HTML/CSS, Javascript, React, Nodejs, Expressjs , MongoDB, Git, etc.
 - 💬 Ask me about anything! I am happy to help you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:kaushalpalak04@gmail.com) 👨‍💻.
 
