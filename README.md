@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+### Glad to see you here!🤩 
 
 Hey! I am Palak Kaushal , a Final year student pursuing Bachelors's from Maulana Azad National Institute of Technology , Bhopal(MP) 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Development 🕸️ and working on my Problem Solving Skills 🤓.
 
